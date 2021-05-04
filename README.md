@@ -6,8 +6,6 @@
 
 Documentação da Pokédex API.
 
-<br/>
-
 ### 🧰 Dependências
 
 Este projeto foi desenvolvido utilizando das seguintes dependências:
@@ -15,13 +13,9 @@ Este projeto foi desenvolvido utilizando das seguintes dependências:
 - [insomnia-documenter](https://www.npmjs.com/package/insomnia-documenter)
 - [serve](https://www.npmjs.com/package/serve)
 
-<br/>
-
 ### 💻 Como utilizar ?
 
 Siga os passos a seguir para inicializar a documentação
-
-<br/>
 
 #### **Clonando**
 
@@ -30,8 +24,6 @@ Siga os passos a seguir para inicializar a documentação
     ```shell
     git clone https://github.com/augustobritodev/pokedex-doc.git
     ```
-
-<br/>
 
 #### **Inicializando**
 
@@ -49,8 +41,6 @@ Siga os passos a seguir para inicializar a documentação
     ```
 
   >   Acessar via [http://localhost:5000](http://localhost:3333)
-
-<br/>
 
 #### **Atualizando o Projeto**
   * O arquivo .JSON que alimenta a documentação pode ser exportado do Insomnia, dessa forma toda alteração que for feita no insomnia deve-se gerar uma nova documentação usando os seguintes comandos.
